@@ -1,3 +1,4 @@
+package mypack;
 import mypack.shape;
 class ex 
 {
