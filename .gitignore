@@ -1,0 +1,35 @@
+# Eclipse
+.settings/
+.classpath
+.project
+.metadata/
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+
+# External tool builders
+.externalToolBuilders/
+
+# Locally stored "Eclipse launch configurations"
+*.launch
+
+# PyDev specific (Python IDE for Eclipse)
+*.pydevproject
+
+# Jython
+*.jython
+
+# CDT-specific
+.cproject
+
+# CMake
+cmake-build-*/
+
+# Annotations
+*.annotations
+
+# SWT
+libswt/
