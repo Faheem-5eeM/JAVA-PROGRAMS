@@ -6,7 +6,12 @@ class ex
 	{
 		shape s = new shape();
 		s.area();
- 
+        
+		square sq = new square();
+		sq.area();
+		
+		rectangle rec = new rectangle();
+		rec.area();
 	}
 
 }
